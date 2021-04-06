@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaydyoung
+- 👋 Hi, I’m Katie! @kaydyoung
 - 👀 I’m interested in full stack development and UI/UX Design
 - 📚 I’m currently learning about developing with Docker
 - 🌱 Growing a digital garden at https://kaydyoung.gitbook.io/my-brain/
