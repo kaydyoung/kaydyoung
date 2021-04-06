@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kaydyoung
 - 👀 I’m interested in full stack development and UI/UX Design
-- 🌱 I’m currently learning about developing with Docker
+- 📚 I’m currently learning about developing with Docker
+- 🌱 Growing a digital garden at https://kaydyoung.gitbook.io/my-brain/
 - 📫 Contact me at kdyoung96@gmail.com
 
 <!---
