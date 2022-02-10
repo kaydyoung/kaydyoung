@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Katie! @kaydyoung
-- 👀 I’m interested in full stack development
-- 📚 I’m currently learning about developing with Docker
+- 👀 I’m a technical product manager
+- 📚 I’m currently learning about ML modeling
 - 📫 Contact me at kdyoung96@gmail.com
 
 <!---
